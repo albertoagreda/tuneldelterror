@@ -95,7 +95,7 @@ Se muestra el nombre completo y curso del usuario.
 
 Al presionar GIRAR, se ejecuta una animación de rotación sobre la imagen de la ruleta.
 
-java
+```
 Copiar código
 RotateTransition rt = new RotateTransition(Duration.seconds(3), ruleta);
 rt.setByAngle(720 + Math.random() * 360);
