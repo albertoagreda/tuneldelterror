@@ -7,7 +7,6 @@
 **Centro:** MEDAC Sevilla  
 **Módulo:** M5 – Desarrollo de Interfaces  
 
-<img src="https://i.imgur.com/Xmp7Rfa.png" width="500" alt="Halloween Banner"/>
 
 </div>
 
